@@ -42,6 +42,7 @@ To get started with this project, follow these steps:
 This API endpoint creates a text file with a filename in the 'YYYY-MM-DD-HH-mm-ss.txt' format. The file is created in the 'files' directory located in the root directory.
 
 URL: https://nodejs-filesystem-lec7.onrender.com/createFile
+
 Method: POST
 
 Response:
@@ -58,6 +59,7 @@ Response:
 This API endpoint retrieves a list of text files from the 'files' directory located in the root directory.
 
 URL: https://nodejs-filesystem-lec7.onrender.com/listFiles
+
 Method: GET
 
 Response:
