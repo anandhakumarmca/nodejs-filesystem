@@ -75,5 +75,6 @@ Response:
 
  **Last Committed HashID:** d3a5aae16f4754dfa8e826ce2e8e097186886128
 
+** All Information about the projects rendered URL Endpoints, GitHub URL, and HashId is updated in: **
 -------------------------------------------------------------------------------------------------------------
 Happy coding!
