@@ -70,3 +70,7 @@ Response:
                     ...
                  ]
         }
+
+# API Documentation
+
+ For detailed information about specific endpoints, request parameters, and response formats, please refer to the complete API documentation.
