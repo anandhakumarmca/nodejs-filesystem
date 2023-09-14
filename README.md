@@ -77,6 +77,3 @@ Response:
 
 -------------------------------------------------------------------------------------------------------------
 Happy coding!
-
-*This information was last updated on [14.09.2023] by [AnandhKumar].*
-
